@@ -8,10 +8,10 @@
 The research described in the present deliverable has been developed within the project entitled “Use of robust deep learning methods for the automatic quality assessment of steel products (DeepQuality)” (G.A. No 101034037), which was funded by Research Fund for Coal and Steel (RFCS) of the European Union (EU). The sole responsibility of the issues treated in the present report lies with the authors; the Commission is not responsible for any use that may be made of the information contained therein. We wish to acknowledge with thanks the EU for the opportunity granted that has made possible the development of the present work.
 
 ## Structure
-* CoilDetais class  /CoilDetais
-* NiFi repository of workflows /NiFi
-* Python scripts  *.py
-* Bash scripts    *.sh
+* CoilDetais class:  **/CoilDetais**
+* NiFi repository of workflows: **/NiFi**
+* Python scripts:  ** \*.py**
+* Bash scripts:    ** \*.sh**
 
 ## Description
 The chosen use case aims to investigate the development of a classification algorithm for analyzing 1-D data sets collectively to provide insights into product quality. Specifically, the industrial scenario under consideration involves evaluating the thickness of zinc coatings applied to hot dip galvanized steel coils, crucial for various industries including automotive.
