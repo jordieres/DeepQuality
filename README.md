@@ -10,8 +10,8 @@ The research described in the present deliverable has been developed within the 
 ## Structure
 * CoilDetais class:  **/CoilDetais**
 * NiFi repository of workflows: **/NiFi**
-* Python scripts:  ** \*.py**
-* Bash scripts:    ** \*.sh**
+* Python scripts:  **\*.py**
+* Bash scripts:    **\*.sh**
 
 ## Description
 The chosen use case aims to investigate the development of a classification algorithm for analyzing 1-D data sets collectively to provide insights into product quality. Specifically, the industrial scenario under consideration involves evaluating the thickness of zinc coatings applied to hot dip galvanized steel coils, crucial for various industries including automotive.
