@@ -26,4 +26,4 @@ The framework revolves around a design phase conducted in the back-office, prece
 
 Practical implementation of this framework involves leveraging NiFi™ technology, chosen for its compatibility with modern microservice-oriented computing platforms orchestrated by Kubernetes. This NiFi™ technology operates within a testbed infrastructure driven by Kubernetes' microservice orchestrator, providing a sample context for deployment.
 
-**More details about the setup can be found at the D5.1 of the project deliverables **
+**More details about the setup can be found at the D5.1 of the project deliverables**
