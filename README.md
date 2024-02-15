@@ -2,7 +2,7 @@
 ## References
 * (c) UPM 2024
 * Joaquín Ordieres January 2024
-* Part of DeepQuality project (https://deepquality.eu)
+* Part of DeepQuality project (http://deepquality.eu)
 
 ## Acknowledgement
 The research described in the present deliverable has been developed within the project entitled “Use of robust deep learning methods for the automatic quality assessment of steel products (DeepQuality)” (G.A. No 101034037), which was funded by Research Fund for Coal and Steel (RFCS) of the European Union (EU). The sole responsibility of the issues treated in the present report lies with the authors; the Commission is not responsible for any use that may be made of the information contained therein. We wish to acknowledge with thanks the EU for the opportunity granted that has made possible the development of the present work.
@@ -26,3 +26,4 @@ The framework revolves around a design phase conducted in the back-office, prece
 
 Practical implementation of this framework involves leveraging NiFi™ technology, chosen for its compatibility with modern microservice-oriented computing platforms orchestrated by Kubernetes. This NiFi™ technology operates within a testbed infrastructure driven by Kubernetes' microservice orchestrator, providing a sample context for deployment.
 
+**More details about the setup can be found at the D5.1 of the project deliverables **
